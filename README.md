@@ -8,12 +8,10 @@
 🎓 **Education:**
 - Bachelor of Information Technology (Computer Science) - QUT (Queensland University of Technology), 2021 – Present.
 - Diploma of Information Technology Networking - TAFE Queensland, 2020.
-- Certificate III in Business - RAPAD Skilling, 2018 - 2019.
 - Queensland Certificate of Education - The Cathedral School of St Anne & St James - Townsville, 2017.
 
 💼 **Career Highlights:**
 - Current IT Technician at 9Spheres Technologies, where I solve technical issues for various businesses, automate processes with PowerShell and Python, and contribute to IT system maintenance.
-- Experience in supporting administration at Winton Shire Council, updating policies and procedures.
 
 🚀 **Personal Projects:**
 - **BrainMate AI:** A student-specific AI educational experience platform. (HTML, CSS, JavaScript, Node.js, Azure Services)
