@@ -1,7 +1,7 @@
 👋 Hi, I'm Brandon Flint, an IT Technician and part-time Computer Science student at QUT. With a background in IT and a passion for developing innovative projects, I'm always seeking new challenges and opportunities to apply my technical expertise. Check out my work and let's connect!
 
 🔧 **Skills & Expertise:**
-- Proficient in HTML, CSS, JavaScript, Python and C#.
+- Proficient in HTML, CSS, JavaScript, Python, C#, Next.js, Tailwind CSS.
 - Experienced with DevOps & version control using Azure App Service, GitHub, and Git.
 - Database management with MongoDB and Azure Blob Storage.
 
